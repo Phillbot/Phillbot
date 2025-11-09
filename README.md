@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Dmytro 👋  
+Frontend Engineer specializing in React and TypeScript.
 
-<!--
-**Phillbot/Phillbot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build real-time UI systems scalable components, responsive layouts,  
+MobX architecture, WebSockets, custom events, SVG rendering, and performance tuning.
 
-Here are some ideas to get you started:
+### 🧩 Tech Stack
+React • TypeScript • MobX • InversifyJS • WebSockets • Node.js  
+Vite • RxJS • SCSS • Figma • Webpack • Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I'm working on
+- Real-time UI experiments (animations, SVG, transitions)
+- Clean architecture for medium-sized React projects
+- A messenger without message storage (WebSockets + DI)
+
+### 📌 Featured Projects
+✅ Messenger MVP — WebSockets + React + MobX  
+✅ Hooks Playground — Reusable custom hooks  
+✅ Game UI Experiments — SVG filters & animations  
+✅ Frontend Architecture Boilerplate — React + MobX + DI  
+
+### 🌱 Currently learning
+Advanced Node.js, backend patterns, Next.js frontend performance.
