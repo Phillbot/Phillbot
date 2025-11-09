@@ -13,11 +13,5 @@ Vite • RxJS • SCSS • Figma • Webpack • Redux
 - Clean architecture for medium-sized React projects
 - A messenger without message storage (WebSockets + DI)
 
-### 📌 Featured Projects
-✅ Messenger MVP — WebSockets + React + MobX  
-✅ Hooks Playground — Reusable custom hooks  
-✅ Game UI Experiments — SVG filters & animations  
-✅ Frontend Architecture Boilerplate — React + MobX + DI  
-
 ### 🌱 Currently learning
 Advanced Node.js, backend patterns, Next.js frontend performance.
